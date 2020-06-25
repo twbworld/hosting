@@ -2,6 +2,7 @@
 hosting
 =======
 
-[![](https://img.shields.io/endpoint?url=https://github.com/twbworld/hosting/blob/master/shields/hugo_blog.json)](https://github.com/twbworld/hugo-blog)
+[![](https://img.shields.io/badge/blog-twbworld-blue)](https://twbworld.github.io)
+
 
 静态资源托管
