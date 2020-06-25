@@ -1,6 +1,16 @@
+// https://shields.io/endpoint
 {
   "schemaVersion": 1,
-  "label": "hello",
-  "message": "sweet world",
-  "color": "orange"
+  "label": "theme",
+  "message": "hugo-academic",
+  "color": "orange",
+  "labelColor": "grey",
+  "isError": false,
+  "namedLogo": "none",
+  "logoSvg": "none",
+  "logoColor": "none",
+  "logoWidth": "none",
+  "logoPosition": "none",
+  "style": "flat",
+  "cacheSeconds": 300
 }
